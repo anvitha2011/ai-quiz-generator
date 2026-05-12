@@ -1,14 +1,14 @@
-# 🧠 AI Quiz Generator
+# AI Quiz Generator
 
 An interactive MCQ quiz generator powered by Claude AI (Anthropic). Enter any topic, choose difficulty and number of questions, and get a full quiz instantly.
 
-## 🎥 Demo
+##  Demo
 
 > Live app: [your-app-name.streamlit.app](https://your-app-name.streamlit.app) ← update this after deploying
 
 ---
 
-## ✨ Features
+##  Features
 
 - Generate MCQs on **any topic** instantly using AI
 - Choose **difficulty** (Easy / Medium / Hard)
@@ -18,7 +18,7 @@ An interactive MCQ quiz generator powered by Claude AI (Anthropic). Enter any to
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -29,7 +29,7 @@ An interactive MCQ quiz generator powered by Claude AI (Anthropic). Enter any to
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 **1. Clone the repo**
 ```bash
@@ -78,19 +78,8 @@ ai-quiz-generator/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
-```
 
----
 
-## 🔑 Getting an API Key
+ Author
 
-1. Go to [console.anthropic.com](https://console.anthropic.com)
-2. Sign up / log in
-3. Navigate to **API Keys** and create a new key
-4. Anthropic gives free credits to new accounts
-
----
-
-## 👤 Author
-
-Built by [Your Name] as a work sample for an AI internship application.
+Built by Anvitha 
